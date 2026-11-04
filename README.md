@@ -57,6 +57,9 @@ I am a **Senior Quality Engineer** with 11 years of experience in software quali
 
 ---
 
+
 ### 📫 Let's Connect
-[![LinkedIn](https://shields.io)]([(https://github.com/Elgibor/CourseEnrolment)])
-[![Email](https://shields.io)](mailto:phindile.sibiya28903@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/phindile-sibiya-03227b66)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:phindile.sibiya28903@gmail.com)
