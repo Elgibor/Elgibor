@@ -1,49 +1,103 @@
-## Hi there 👋
+# Hi there! 👋 I'm Phindile Sibiya
 
-I'm [Phindile Sibiya] 🚀 | Senior Quality Engineer | 11 Years QA Experience | Test Automation
+### Senior Quality Engineer | QA Automation | 11 Years of Experience
 
-I am a **Senior Quality Engineer** with 11 years of experience in software quality assurance, specializing in functional, regression, integration, API and end-to-end testing across web, mobile and backend applications. Recently expanded technical capabilities into test automation through practical training and project-based experience with Java, Selenium, REST Assured, Playwright, TypeScript and Cucumber. Strong foundation in test strategy, test design, defect management, Agile methodologies and risk-based testing. Passionate about combining extensive manual testing expertise with automation engineering to improve test coverage, efficiency and software quality.
+I'm a **Senior Quality Engineer** with 11 years of experience in Software Quality Assurance, specialising in delivering reliable, high-quality software across web, mobile, API and backend applications.
 
----
+My experience spans functional, regression, integration, system and end-to-end testing, test strategy, risk-based testing, defect management and Agile delivery.
 
-### 🧰 Tech Stack & Automation Tools
+I'm continuously expanding my automation engineering capabilities through hands-on projects and practical training, with a focus on **Java, Selenium, Playwright, TypeScript, Cucumber and REST Assured**.
 
-- **Web Automation:** Selenium WebDriver, Playwright
-- **Languages:** Java, TypeScript, JavaScript, C#
-- **API Testing:** REST Assured, Postman
-- **BDD / Methodologies:** Cucumber (Gherkin), Agile/Scrum
-- **Test Runners & Reporting:** TestNG, JUnit, Allure Reports
-- **CI/CD & Tools:** Git, GitHub, Maven, Jenkins, UFT
+I'm passionate about combining strong quality engineering fundamentals with modern automation practices to improve test coverage, accelerate delivery and build confidence in software releases.
 
 ---
 
-### 🧪 Featured Automation Projects
+## 🧰 Tech Stack & Tools
 
-#### 🔹 [Project Name 1: Selenium + Java Web Testing Framework]
-*A scalable, enterprise-level UI test automation framework.*
+**UI Test Automation**
+- Selenium WebDriver
+- Playwright
+
+**Programming Languages**
+- Java
+- TypeScript
+- JavaScript
+- C#
+
+**API Testing**
+- REST Assured
+- Postman
+
+**BDD & Test Frameworks**
+- Cucumber (Gherkin)
+- TestNG
+- JUnit
+
+**Reporting & Build Tools**
+- Allure Reports
+- Extent Reports
+- Maven
+- Gradle
+
+**DevOps & Collaboration**
+- Git & GitHub
+- Jenkins
+- GitHub Actions
+- Azure DevOps
+- Jira
+
+**Cloud & Platforms**
+- AWS
+- Microsoft Azure
+- Google Cloud
+
+---
+
+## 🧪 Featured Automation Projects
+
+### 🔹 Selenium + Java Web Automation
+
+[WebAutomationAdvancedForm](https://github.com/Elgibor/WebAutomationAdvancedForm)
+
+A web UI automation project demonstrating Selenium automation fundamentals and framework design.
+
 - **Tech Stack:** Java, Selenium WebDriver, TestNG, Maven
-- **Design Pattern:** Page Object Model (POM) with Data-Driven Testing
-- **Key Feature:** Generated detailed **Extent Report** for stakeholder visibility.
-- 🔗 [(https://github.com/Elgibor/WebAutomationAdvancedForm)]
+- **Design Pattern:** Page Object Model (POM)
+- **Reporting:** Extent Reports
+- **Focus:** Reusable automation components and maintainable test scripts.
 
-#### 🔹 [Project Name 2: REST API Testing Framework]
-*End-to-end API validation layer for microservices.*
-- **Tech Stack:** JavaScript, REST Assured, TestNG
-- **Key Feature:** Automated complex CRUD workflows, token-based authentication, and JSON schema validations.
-- 🔗 [(https://github.com/Elgibor/CourseEnrolment)]
+### 🔹 REST API Testing
 
-#### 🔹 [Project Name 3: Modern Playwright Framework]
-*Ultra-fast, cross-browser web automation suite.*
-- **Tech Stack:** TypeScript, Playwright Test runner
-- **Key Feature:** Leveraged Playwright's native auto-waiting, parallel execution, and visual regression testing capability.
-- 🔗 
+[CourseEnrolment](https://github.com/Elgibor/CourseEnrolment)
+
+An API testing project demonstrating automated API validation and test design.
+
+- **Tech Stack:** Java, REST Assured, TestNG
+- **Focus:** CRUD operations, authentication and JSON schema validation.
+- **Objective:** Improve API reliability through automated validation.
+
+### 🔹 Playwright + TypeScript Automation
+
+*Project in progress – repository link coming soon.*
+
+A modern browser automation project exploring Playwright's capabilities.
+
+- **Tech Stack:** TypeScript, Playwright
+- **Focus:** Cross-browser testing, auto-waiting, parallel execution and test reporting.
+- **Objective:** Build a maintainable, scalable UI automation framework.
 
 ---
 
+## ☁️ Certifications
+
+- 🏅 ISTQB Certified Tester – Foundation Level
+- 🏅 AWS Certified Cloud Practitioner
+- 🏅 Google Cloud Digital Leader
+- 🏅 Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 ---
 
-### 📈 GitHub Metrics
+## 📈 GitHub Metrics
 
 ![GitHub Metrics](./github-metrics.svg)
 
@@ -55,3 +109,7 @@ I am a **Senior Quality Engineer** with 11 years of experience in software quali
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/phindile-sibiya-03227b66)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:phindile.sibiya28903@gmail.com)
+
+---
+
+⭐ *Always learning, building and exploring better ways to deliver quality software.*
