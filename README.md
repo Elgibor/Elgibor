@@ -37,7 +37,6 @@ I'm passionate about combining strong quality engineering fundamentals with mode
 - Allure Reports
 - Extent Reports
 - Maven
-- Gradle
 
 **DevOps & Collaboration**
 - Git & GitHub
