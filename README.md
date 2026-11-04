@@ -40,20 +40,12 @@ I am a **Senior Quality Engineer** with 11 years of experience in software quali
 
 ---
 
+
+---
+
 ### 📈 GitHub Metrics
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Elgibor&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elgibor&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
+![GitHub Metrics](./github-metrics.svg)
 
 ---
 
